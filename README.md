@@ -28,6 +28,9 @@ Use ferramentas como a Calculadora de Preços do Azure e a Calculadora de Custo 
 
 ## Links Úteis e Recursos
 https://azure.microsoft.com/pt-br/pricing/
+
 https://azure.microsoft.com/pt-br/services/cost-management/
+
 https://azure.microsoft.com/pt-br/services/advisor/
+
 https://azure.microsoft.com/pt-br/pricing/calculator/
